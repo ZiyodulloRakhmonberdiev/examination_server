@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb+srv://ziyodullo:k5gNqv9ykYIjtdYI@examination.02kwikt.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "jwt": {
+        "secret": "Examination Portal Application"
+    },
+    "mail-credentials": {
+        "userid": "ziyodullo",
+        "password": "k5gNqv9ykYIjtdYI"
+    }
+}
